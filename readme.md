@@ -7,3 +7,4 @@ SOURCES
 
 - https://medium.com/@analog_cs/an-understandable-explanation-of-the-solution-to-the-100-prisoners-riddle-f305a935bac4
 - https://www.brics.dk/RS/03/44/BRICS-RS-03-44.pdf
+- Youtube: https://www.youtube.com/watch?v=ksasmB0YPzw
